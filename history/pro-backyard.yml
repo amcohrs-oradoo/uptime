@@ -1,7 +1,7 @@
-url: https://www.outdoortvpros.com  
+url: $SECRET_URL_PB  
 status: up
 code: 200
-responseTime: 246
-lastUpdated: 2020-12-17T13:31:27.195Z
+responseTime: 230
+lastUpdated: 2020-12-17T14:02:21.071Z
 startTime: Thu Dec 17 2020 13:11:48 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
