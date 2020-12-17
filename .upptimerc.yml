@@ -5,17 +5,17 @@ repo: uptime # Your Github repository name
 # Add your sites here
 sites:
   - name: Pro Putt Systems
-    url: https://proputtsystems.com
+    url: $SECRET_URL_PPS
   - name: Carolina Custom Putting Greens
-    url: https://www.carolinacustomputtinggreens.com
+    url: $SECRET_URL_CCPG
   - name: Pro Backyard
-    url: https://www.outdoortvpros.com
+    url: $SECRET_URL_PB
   - name: Turf Innovations
-    url: https://www.turfinnovations.com
+    url: $SECRET_URL_TI
   - name: Loyal Toys
-    url: https://loyaltoys.com
+    url: $SECRET_URL_LT
   - name: Pro Court Systems
-    url: https://procourtsystems.com
+    url: $SECRET_URL_PCS
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   cname: status.oradoo.com
