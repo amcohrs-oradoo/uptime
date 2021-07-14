@@ -1,7 +1,7 @@
 url: $SECRET_URL_TI
-status: up
-code: 200
-responseTime: 149
-lastUpdated: 2021-07-13T23:13:27.262Z
+status: down
+code: 403
+responseTime: 102
+lastUpdated: 2021-07-14T07:41:11.744Z
 startTime: Thu Dec 17 2020 13:11:48 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
